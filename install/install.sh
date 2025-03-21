@@ -27,10 +27,10 @@ if [ $? -eq 0 ]; then
 
         # Run the userbot
         echo "[*] Running userbot..."
-        python youruserbot.py
+        python alkaline.py
 
         # Exit message
-        echo "[Exit]"
+        echo "Success!"
     else
         echo "[!] Failed to install dependencies."
         exit 1
