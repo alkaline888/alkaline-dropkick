@@ -4,7 +4,7 @@
 echo "[*] Installing python"
 #trying with root and without root.
 sudo pkg install python
-pkg install python
+pkg install python -y
 sudo apt install python
 apt install python
 sudo apt-get install python
