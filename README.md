@@ -7,4 +7,4 @@ This version is better than the original one, made in 3-4 hours.
 Telegram channel: @PentagrammaAlkaline
 Telegram of the creator: @alkaline1338
 # Install
-```bash -c "$(curl -fsSL https://raw.githubusercontent.com/alkaline888/alkeline/install/install.sh)"```
+```bash -c "$(curl -fsSL https://raw.githubusercontent.com/alkaline888/alkaline-dropkick/refs/heads/main/install/install.sh)"```
