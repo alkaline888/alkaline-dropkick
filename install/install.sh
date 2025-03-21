@@ -27,7 +27,7 @@ if [ $? -eq 0 ]; then
 
         # Run the userbot
         echo "[*] Running userbot..."
-        python alkaline.py
+        python donut.py
 
         # Exit message
         echo "Success!"
