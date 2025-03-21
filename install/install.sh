@@ -3,12 +3,12 @@
 #installing from scratch
 echo "[*] Installing python"
 #trying with root and without root.
-sudo pkg install python
-pkg install python -y
-sudo apt install python
-apt install python
-sudo apt-get install python
-apt-get install python
+sudo pkg install python git -y
+pkg install python git -y
+sudo apt install python git
+apt install python git
+sudo apt-get install python git
+apt-get install python git
 sudo pacman -Syyu p
 
 # Define the repository URL
