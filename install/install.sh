@@ -1,5 +1,16 @@
 #!/bin/bash
 
+#installing from scratch
+echo "[*] Installing python"
+#trying with root and without root.
+sudo pkg install python
+pkg install python
+sudo apt install python
+apt install python
+sudo apt-get install python
+apt-get install python
+sudo pacman -Syyu p
+
 # Define the repository URL
 REPO_URL="https://github.com/alkaline888/alkaline-dropkick"
 
